@@ -1,0 +1,20 @@
+footer{
+
+    background-color: black;
+    margin: 20px 0px 10px 0px;
+    padding: 10px;
+
+    .redes{
+        display: flex;
+        flex-direction: row;
+        justify-content: right; 
+    }
+
+    p{
+        color: white;
+        text-align: center;
+        font-size: small;
+        font-family: sans-serif;
+
+    }
+}

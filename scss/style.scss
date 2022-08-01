@@ -1,0 +1,17 @@
+@import "./layout/menu";
+@import"./layout/footer" ;
+@import "./layout/main";
+
+
+
+
+@media (max-width:720px)
+{
+
+ .grid{
+  grid-template-columns: 80vh;
+  grid-template-rows: 40vh 40vh;
+  
+
+ }
+}
